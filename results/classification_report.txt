@@ -1,0 +1,16 @@
+                                precision    recall  f1-score   support
+
+                CPU Saturation       1.00      1.00      1.00       180
+Database Connection Exhaustion       1.00      1.00      1.00       180
+                   Memory Leak       1.00      1.00      1.00       180
+               Network Latency       1.00      1.00      1.00       180
+                 Service Crash       1.00      1.00      1.00       180
+
+                      accuracy                           1.00       900
+                     macro avg       1.00      1.00      1.00       900
+                  weighted avg       1.00      1.00      1.00       900
+
+Test Accuracy: 1.0000
+Macro Precision: 1.0000
+Macro Recall: 1.0000
+Macro F1-score: 1.0000
